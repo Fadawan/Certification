@@ -1,4 +1,4 @@
-![logo](image/logo.png)
+![logo](image/myLogo.png)
 #  認證資訊 Certification
 ## 姓名: 陳品質
 ### 認證擁有本會之證照 :
