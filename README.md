@@ -1,6 +1,7 @@
 ![logo](image/myLogo.png)
 #  認證資訊 Certification
-## 姓名: 陳品質  [簡介](aboutme/README.md)
+## 姓名: 陳品質  
+### [簡介](aboutme/README.md)
 ### 認證擁有本會之證照 :
 ---
 * 黑帶大師 Master Black Belt
