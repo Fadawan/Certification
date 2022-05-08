@@ -1,7 +1,7 @@
 ![logo](Logo.png)
 ##  認證資訊 Certification
 ## 姓名: 陳品質  
-### [個人簡介](aboutme/README.md)
+### [個人簡介](aboutMe/README.md)
 ### 認證擁有品質學會之證照 :
 ---
 * 服務業品質專業師證照
