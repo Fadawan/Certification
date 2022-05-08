@@ -1,4 +1,4 @@
-![logo](myLogo.png)
+![logo](myLogo2.png)
 #  認證資訊 Certification
 ## 姓名: 陳品質  
 ### [個人簡介](aboutme/README.md)
